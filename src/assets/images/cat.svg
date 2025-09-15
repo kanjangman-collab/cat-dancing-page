@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 고양이 몸통 -->
+  <ellipse cx="100" cy="140" rx="35" ry="45" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 머리 -->
+  <circle cx="100" cy="80" r="35" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 귀 -->
+  <path d="M75 55 L85 35 L95 55 Z" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+  <path d="M105 55 L115 35 L125 55 Z" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+
+  <!-- 귀 안쪽 -->
+  <path d="M78 52 L85 40 L92 52 Z" fill="#ffb07a"/>
+  <path d="M108 52 L115 40 L122 52 Z" fill="#ffb07a"/>
+
+  <!-- 고양이 눈 -->
+  <ellipse cx="90" cy="75" rx="8" ry="12" fill="#333"/>
+  <ellipse cx="110" cy="75" rx="8" ry="12" fill="#333"/>
+  <ellipse cx="90" cy="73" rx="3" ry="6" fill="#fff"/>
+  <ellipse cx="110" cy="73" rx="3" ry="6" fill="#fff"/>
+
+  <!-- 고양이 코 -->
+  <path d="M100 85 L95 90 L105 90 Z" fill="#e74c3c"/>
+
+  <!-- 고양이 입 -->
+  <path d="M100 92 Q95 97 90 95" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M100 92 Q105 97 110 95" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- 고양이 수염 -->
+  <line x1="65" y1="82" x2="85" y2="80" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="65" y1="88" x2="85" y2="88" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="115" y1="80" x2="135" y2="82" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <line x1="115" y1="88" x2="135" y2="88" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 고양이 앞발 -->
+  <ellipse cx="80" cy="170" rx="8" ry="20" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+  <ellipse cx="120" cy="170" rx="8" ry="20" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 뒷발 -->
+  <ellipse cx="85" cy="180" rx="6" ry="15" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+  <ellipse cx="115" cy="180" rx="6" ry="15" fill="#ff9f43" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 꼬리 -->
+  <path d="M135 130 Q155 120 150 100 Q145 80 160 75" stroke="#ff9f43" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <path d="M135 130 Q155 120 150 100 Q145 80 160 75" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- 배 무늬 -->
+  <ellipse cx="100" cy="145" rx="15" ry="25" fill="#ffb07a"/>
+</svg>
